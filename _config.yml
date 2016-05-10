@@ -1,0 +1,28 @@
+name: Anthony Carboni
+favicon: null
+layout_spectrum: 0.6209811063017696
+typography_spectrum: 0.3441022476181388
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.31100483681075275
+  lightness: 0.5083022895269096
+  saturation: 0.7486459533683956
+  rhythmicContrast: 0.15451594162732363
+purpose: []
