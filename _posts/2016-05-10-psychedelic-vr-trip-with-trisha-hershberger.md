@@ -1,26 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=E53NQ5viDqY'
+inLanguage: null
+keywords: []
+description: "Want to help me make more videos? Support me on Patreon! http://patreon.com/acarboni SoundSelf is a VR experience that's meant to be a meditation aid and psychedelic experience, reproducing the effects of something like DMT. Trisha Hershberger and I visited the game's creator, Robin Arnott, and things got weird in a strange hotel room."
+datePublished: '2016-05-10T15:44:49.079Z'
+dateModified: '2016-05-10T15:44:23.814Z'
 author:
   - name: Anthony Carboni
     url: 'https://www.youtube.com/user/acarboni'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://ipv4.google.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "Want to help me make more videos? Support me on Patreon! http://patreon.com/acarboni SoundSelf is a VR experience that's meant to be a meditation aid and psychedelic experience, reproducing the effects of something like DMT. Trisha Hershberger and I visited the game's creator, Robin Arnott, and things got weird in a strange hotel room."
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=E53NQ5viDqY'
 title: Psychedelic VR Trip with Trisha Hershberger
-datePublished: '2016-05-10T15:32:04.142Z'
-dateModified: '2016-05-10T15:31:21.060Z'
-starred: false
 sourcePath: _posts/2016-05-10-psychedelic-vr-trip-with-trisha-hershberger.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://ipv4.google.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
