@@ -1,6 +1,6 @@
 name: Anthony Carboni
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.73736
 typography_spectrum: 0.31239
 title: Anthony Carboni
 cta:
@@ -22,7 +22,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.31100483681075275
+  brandStrength: 0.1875
   lightness: 0.5083022895269096
   saturation: 0.7486459533683956
   rhythmicContrast: 0.15451594162732363
