@@ -1,20 +1,4 @@
-name: Anthony Carboni
-favicon: null
-layout_spectrum: 0.73736
 typography_spectrum: 0.31239
-title: Anthony Carboni
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5083022895269096
   saturation: 0.7486459533683956
   rhythmicContrast: 0.15451594162732363
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.73736
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Anthony Carboni
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Anthony Carboni
+description: Oh jeez man I don't knoq
 purpose: []
